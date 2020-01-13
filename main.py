@@ -1,2 +1,3 @@
-import algorithm
-import okna
+import displayPlace
+
+screen = displayPlace.Display()
